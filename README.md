@@ -8,3 +8,4 @@ pip install langchain
 pip install langchain_community
 pip install openai
 pip install langchain_openai
+pip freeze > requirements.txt 
